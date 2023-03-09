@@ -1,2 +1,2 @@
 # practice_note
-https://note.github.io/practiceNote
+https://frieda18.github.io/practice_note/
